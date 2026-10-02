@@ -1,11 +1,14 @@
 # Netflix GPT
 
--create React App
--Configured Tailwind Css
+- create React App
+- Configured Tailwind Css
+- Header
+- Login Form
+- Sign up Form
 
 # Features
 
-- Login /Sign UP
+- LogIn / Sign UP
   -Browse (After Authentication)
   -Header
   -Main Movie - Trailer in Background - Title & Description - Movie List - LOGOUT - SIGN IN
